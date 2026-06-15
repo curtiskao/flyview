@@ -1,0 +1,6008 @@
+{
+  "items": [
+    {
+      "block_hash": "0x8b3896ea1f2082626b7c3c7d5f8631d50eb2b453ed40547f5e179fc55596b593",
+      "block_number": 3264651,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:57:05.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xc7a849E8294Fb3175297547aCb10B0E8Ba4BE1fc",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57195",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57195",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x53a4a3fe75bcf52e979e3d4f12128f639f6417c24af3064e561c06e079f11f9c",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xd3358028a4be98668daf48d950e71016afa398943d08c43a60749b3155b6e16e",
+      "block_number": 3264505,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:45:07.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x55532707E0636595769da94862806a5F107190AE",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57194",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57194",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x3db5e6080ada601a57350da8ca5f026a3fafa983a837297ed2401d09d226fd49",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x92fb5eafbac61abdb9ad88987da03b829166235ad6011de53da983a9132d7571",
+      "block_number": 3264437,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:41:53.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x2e2b2b1bCD0727fd40d0831a5D036cAf046191A6",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57193",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57193",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xbcd92bd2117d9af2baf138dca5c1bda701089ba6e74c39dc68d42aa17c91d58a",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xb0280e6c54a23a0df28c6ab1c7e109df64473e6c55428d82f63f5ad507fabf88",
+      "block_number": 3264428,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:41:19.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x49cE153dc27AF9c0Cc4AaD3FaefD343a82f4daD0",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57192",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57192",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xf84615230fe03179992756ea115551f1eceb838fa91d82104160c99774a5120a",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x317c1a3f73717f4fb31b0429c1983d6bd84e804fa3c4fe59e7af1c2747b609ed",
+      "block_number": 3264087,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:20:10.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x80116B6306D78a25d4f82d7c5042bBF98eAD9e13",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57191",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57191",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x3dcfc949cc05887b414eb72d02aa384b66d9c5ca59a22d90e99bb6f72deca8ae",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xb6ebc20fa8d639df2f364a207ac6b0a5e748186497738184876edc704940fbcf",
+      "block_number": 3264085,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:20:04.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x4f2564B60C65D8495A503359bBe898aA989e2a71",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57190",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57190",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xc12055c47c612e7bda3cfe873d8203bc839071b46448bb8b81c7938d1f5e58d5",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xd156fcc7b32c9861c93ddd0842fba3d6aae07ae47f96c369b432e3fde0fa13a9",
+      "block_number": 3264078,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:19:41.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xc8108D4cD32054c4A9CEB5d832d5A6902C0ddC0b",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57189",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57189",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x5dbfa958ac2d31321ff93d683d19ce1d8ec2b8a9b3054cf50f22789e111492f8",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xb243e053d60598c1a8e9706b3678e5c210cf73b2f43b0065940244503111cbad",
+      "block_number": 3264061,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:19:01.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xc1f8f856C8E968Db92208B409063100CC62015CD",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57188",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57188",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x540f9d3e7c4d3751ec7e53d93206ff1a63189bc259b3b6abaf4814c080c31238",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x61bf65cd896d5708495a6c53304359de54cc974cce617bcbda3880ec007a0607",
+      "block_number": 3263930,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:09:15.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x7A1fDB9E01970AFd1E20F309F38A4BA53c7e40b5",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57187",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57187",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xbd5e160823bbcb31a6b2c2f0750d7288d7bf1faddc312023718517aba087f196",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x636b97e342894bc67e0c57abcfc8a6f57db5325a0ce17a7d3aa0d99e44741308",
+      "block_number": 3263875,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:06:54.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xc25A6689213755F751D540C7e38C62ecDd945883",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57186",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57186",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xebd262b5ac8e4d3da1585ac2e851a0dc24eb9ed6461045e4d1cae6dbb1078d98",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x915c811209293d739e429e757fae5a1a176ecf63a2c8aff4bbfdc3bfe1052295",
+      "block_number": 3263867,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:06:28.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x15faBF72fE0a58900A357e36Ba128A269B7e9780",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57185",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57185",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x2ef082f50ba52efc83371cba67b249e8e9902269e09196390655f860cce6aec5",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x7c972c02bd066efabfb8633d641801820feac339f0d8e16f6183eee3f148852d",
+      "block_number": 3263849,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:04:25.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x7B299dCcCF11eA23c398E502399af4459BdD60Ae",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57184",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57184",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xa6ec8412a23336fcad736bab1cfd5404ec1f28503dcfbd23ea6a599ae938ace5",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x788fef4001f0b83e54dd1fa97515a0c684f6eb8ac14d99cc307aa30ac112f95e",
+      "block_number": 3263787,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-21T00:01:11.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xDB2dc4ee64374B69770a69E796b3786D9771Fac2",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57183",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57183",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xcbafd56f1d6f8cef6210579009213d37d955380e0698aa36c7f99114416ccdcf",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xc9230fb25dfab60550281b0b77a3350738dd8b30d54a92b1d6fa95ae086df99e",
+      "block_number": 3263509,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T23:42:15.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xc33d1692B08e1735FbC02DFe06a6654ec182eA68",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57182",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57182",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xe13769c58e593e6d39344ef2e73d9cc5b4bc382f96da03ac24ae7609a0355d3a",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x4b4662cedde9e56546bda0518b3df83cf7a846d4d92c9b14984b8c60e8900d69",
+      "block_number": 3263481,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T23:39:38.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x420816557CDC9D2717316AAB4F3A80cEE4e7cBd9",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57181",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57181",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x88d8b78a5b1a6619e3f6eca7dd07ed08e3905c4d238b226a2b7ab75c63c5f31a",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x1bdc90c976f08cf1c8a8323b4b336e6db496199d6b3fff1b25b0fd606b1be917",
+      "block_number": 3263478,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T23:39:11.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x0e95c606973eDd1b7881B157faDAFa1d2106007b",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57180",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57180",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xbded4d0b7a6dc8de137a35db3e86de2886dea3b95c96d92a05acbdae803d086b",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xccee61a8a7f3b20e2a3e861dcbc8392119fd719726f418a73750730b75b734d2",
+      "block_number": 3263471,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T23:38:06.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x0e364F689AAC503d610caA15271683f3de362df2",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57179",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57179",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x075162220fe744280fa5f33c183a9282d5f0e3453c1fd95227eeb9320682e36d",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xad7cb34a2b8ce7b6c593f1d8e53122426fae0786c1c8eb5c67eecafdc2dc3821",
+      "block_number": 3263175,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T23:16:54.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xFCc4aa79Ef821ce5736d6eA77E05dadE07078333",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57178",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57178",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x286827ee1d5a38021875825954cbfdccb9fe3fad66d09bf6b697e3bb08e3ae82",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x8d6561c18183338ad23b98f0253ffc62fc31ddb286e346a9c5c8ae7570addb4e",
+      "block_number": 3263015,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T23:09:26.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x1F83C7581530f45b230d8DCbd6481B57Ce6A355d",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57177",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57177",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xe5022f12d56b8cda85b1e4a7c07614871906697f8beda3c7b8649a8d369faac1",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x3cc9c8de4a99fd364f967c06ad4e307526ff5d9d56782e124083beb7e0c96588",
+      "block_number": 3262978,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T23:08:29.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xD22EbA154BEB7D7534faA709Bba43Db54E6b8716",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57176",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57176",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x7d36dd9c92fb1df5a769b027a3342d74efb3fbda18999e99bd98f55da19df63f",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xbb7a9036a3df9ff41531bf955634db2a5d23cce7164e797a7ac40df14f8c587c",
+      "block_number": 3262969,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T23:08:02.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xFf740ee17318D23CcD546866d47402eDdadd2fF0",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57175",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57175",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x6d1c3f27318fb8ce43f696288a9265421fc6ce3364fa7b767e5eb5b513d5534a",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x749e5aa93c9cf154af8ff2b14c6a0bc525c83b7b4e19c1a8e6cad6d2d4598735",
+      "block_number": 3262757,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:56:48.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x4F5F3549176eb94b8301A4cC3968BB3a902073F0",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57174",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57174",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xdd2d4c96335f06cd5be9d181104a8d19329ff1de3d54e617bc66d660f6d4d5a7",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x3f311475a80d010a895d98a53a7e5e1ebe396449afbf4f98ab5363ac9a387580",
+      "block_number": 3262726,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:54:33.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x0dce040B0E255b2203d83Cf9d6E0a45732Ea3FEC",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57173",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57173",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x3451bb3b70bc8af14f4eccbfecf07f55a2dc5c88738c590a9d04fd5774ab5a66",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x4dbc92900e0734090171211b53c726532f83133f1691494f22baee6c8853dddf",
+      "block_number": 3262689,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:51:33.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x9BEf84599624c440c449eF6bD5E9a5f4e0A9FAc2",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57172",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57172",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xebbbfcb69a0a00a8a7ebba8f85265a3cfb7a7b9df2e04b63073c923b76d1d6c0",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x4b3052b167137e0ffbc58bb076543bbe627dc974a8bdc89c469a8a1833ebef5c",
+      "block_number": 3262460,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:41:26.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x31ce878604F794758B415B1070A0e924aAbadef3",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57171",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57171",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x0b03295367e65532f2bce6bddd07f122bbcf61a8c60c13cf417ecd6483260114",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x25597c22e89e5e50bc825c87b03e847e57e00a6e38e5f97ac01ef486e063466f",
+      "block_number": 3262442,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:40:55.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xaD27cCa6991e3F82EfD90706DCb9d10094Da1365",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57170",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57170",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xe696c3b3013745e2c16fde05e06247f8ed0d732762b5b975c2e52f89fdc6354b",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xed0c2427408ae8d77f8e32e91d4cc29781f30335480870d28359e512855bacbd",
+      "block_number": 3262380,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:34:44.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xdF7E14647CE7761785922cA7c31966A89bb54322",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57169",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57169",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xa8c2442613f2ddf052093b82b71d509a51155c251091783b4904852a7a3a7b09",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xe9922b6f4808e4bdc5e3e161d0d1c67f68baec1d21fcd1b0d655953ec6b260d0",
+      "block_number": 3262222,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:26:36.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x527cfdDFcB0e112F8551a278eD70ab0353D2027C",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57168",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57168",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xf0a77c942988ec520b4b490cd7feb02797399965d38e93a0fe8950cae40e66d4",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xd7a62cea2303b2e4ebd883dbc43c4c15c9324a6e54e4713939acc4d3393ea04b",
+      "block_number": 3262189,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:24:10.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x5674b2Db06A54545bD1669789E5D5792D871C8a7",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57167",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57167",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xac511894bdecab60db57717a7031c6b60a94f7a72dafe9be27b79c8951282668",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x249e96e79c6f2918c9e3459c11b020232d4f10964acc8b5051bb57c7fee4faee",
+      "block_number": 3262132,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:21:06.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x932d50F28DFCf5E7A49d71E740A3458D049d9087",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57166",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57166",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x9f80ef365049523a76c0c8c37b1625ff8117d983426b3166405f071a234f0a98",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xe40b07b43b5634f4435bc672c24c9c1de6d07fb3455d73d6a15b504feb5d14aa",
+      "block_number": 3261838,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:08:25.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x913969b5e73E718cf024EFb1d3DdCef1B3c1Dd1D",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57165",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57165",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x996af3d9c8c68b9beeb7661b433750ab610e79fd947a7f45776047c941676353",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xbf2d82ca2668245afc072fe4858d804d4d7595bbe785415872e9e99492b078b4",
+      "block_number": 3261771,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:05:16.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xC3825c1387860cA7D8b3202Ec5C51f7ECE09e1d4",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57164",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57164",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x51324604148abb7b73515f615a6a36b9537f9ad209c49c5be21b9c7deb4b1a1b",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x6325891f4f52b72524acfc786af119569bfe93e54a8f701565096b662cc78456",
+      "block_number": 3261713,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:01:56.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x2ccf126eb4Ba191E02F07b0ac42eB98dCa38B8Ed",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57163",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57163",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x8ffcbbb0d883ab9377f2b904df8373efb88bb8f40b198637a4fbc9f40fffe393",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x991776ae57f3d5c22129bf8d7f9261495625aa05bfae7f84d5da71059e352bec",
+      "block_number": 3261676,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T22:00:40.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x95a9Dc6F864Aa37D27dE3CB531769061cfe3e12E",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57162",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57162",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xd5953a0ec8e7e150cdb612d37c46e94ec2cfa3bc39709d99bb54c7fead2e151e",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xbcbe1a33dce821be58685b982bb5263e119ae67cb2a3bdf519ba050702bfe6ed",
+      "block_number": 3261645,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:59:53.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x14B75C7242a98762312e08B98BB076e58ae4c1A6",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57161",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57161",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x839e706f17a3f48c767aa37cb198427b833af4eec96d9d0c7e43229db8ca3c03",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x7435d1da76daff3474f7394b2988885e920d4c0529ff11adace45d89a9f440ed",
+      "block_number": 3261375,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:50:07.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xf54B99c7c8522Ae71339D149D29a61A44807C462",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57160",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57160",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x3717c0a7f69d884baea9d4e4346224a9afe85746ec8a91cf1a84187c3631570f",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x22b31d21bf711349509bd80d44cd4c23b046c1f40cf394df5981d16bd6c005e4",
+      "block_number": 3261338,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:48:29.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x1B0927E556Fb3BdA9f1321e2D8aFea6e9e9DDE47",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57159",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57159",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xd64aa222712b287a4fe5fc130e29772c222571c05d578aed11e0603b898b458a",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x4dc8b2d7c371ac0cc21a0ca7aca00d3156a1edfeeb4b47d0489ba8e5bd9c700e",
+      "block_number": 3261093,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:37:00.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x652F8Dd67646C984330EFe2d55Eec75375cdc8F4",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57158",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57158",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x248a92ddf7267ab28a8411b4099a81542d5fcfb791824c25b1a9dca9eed6f628",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x70bfd65d287a4132237529c91c6c9544055b49771978247970cd6599384bf5fa",
+      "block_number": 3261086,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:36:49.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x9E175E5eF40610395feA7D569c7066De940F894c",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57157",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57157",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x7abb65379e65752b770ee56f8533852383121363953df70f74b112036cba3dd6",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xc05865b0759602ac464a9bd19ca33a42ea38b5b8824cf78b2a0a2af2b2051fc1",
+      "block_number": 3261060,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:36:15.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xE49D724cC6Ea218B0e2AEec8389e7f938Ece2F34",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57156",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57156",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xde48a8659691587866af59dbd11f3955cd8412547e15fc47a3d15790bd0567ef",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x266585b41608d758b47017787ea44eb4e5f04ef07f9dfb2476f11637d1537e90",
+      "block_number": 3260999,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:33:40.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x59e8671703C92a7783386887433AFf3CFC3e3E90",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57155",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57155",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x1a528924cd066e1d5daaa50d2b7644beb79debb8cc99e8b3d6b38204bd00b572",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x6fb8eff252b839bbb8b99cd7f51e128010e2be8495fa1375c62e0090dc2f45f5",
+      "block_number": 3260952,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:30:31.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xC73E1bf0fC21975a5EfB14A0C91e7d009EbCB450",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57154",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57154",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x379d7b4593b1fd64f9dd4082f66a92923cf246e62bc7bfe537264e057a761dcf",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x45cbe47637b143216f15fbf7f0e011a504116ad71c9cf3dbd739de05c5a9fafc",
+      "block_number": 3260900,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:27:23.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x786015067B4c6BE8570fdD2f3A0D7FE67CFa0406",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57153",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57153",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x6a6766811556b777583fc94e84e694bde3455fd81f528f44bf67b4b6250101e3",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x48b25ef6726bbf62330217369aab7d360b39bb14b8a5e6c7da95dcdcfd8a3150",
+      "block_number": 3260724,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:17:44.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x7CC0DE2B78750B7Ba560F224D46b77E9E4B321e6",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57152",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57152",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xce2e0bf3095782c3bd3a4cf40ce06afb39c2ea5f11febfc42b25ef1421e9072b",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xb454086dba28d4225675604fcdb94f3a95f69bea475d5b43111e6084e9eb2ed3",
+      "block_number": 3260598,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T21:12:24.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x67Aec6Dc6bb74699f4583950349a1B29550b71A8",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57151",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57151",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "2"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "50000000000000000000000"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "5"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 2",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/2X+NFT.png",
+            "name": "Blackbird Status Level 2"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x9eb944aa2e2a73ea2e5cd238cf1f7f0b90f07229ef642f238e9e0df33ca37b18",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xd90c248f959b3a6e506d5de511509e1077b32f1a5d6a9945b24a9e5e94a57e0a",
+      "block_number": 3260284,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T20:58:14.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xe7b59b1AC525051d8107d36350b124122b8984B4",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57150",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57150",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x035a6c2b6fa80557dc86c71671c5f671b43e35a4b2e36e96f54a4f993ecc19c2",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xba689daf37c239746d5d08df3ac2874c210044e1e278a5d7b2fd642c21febdf1",
+      "block_number": 3260206,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T20:53:33.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xDB98889542C26ca8Ed091b4d59759D0696e9E3eA",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57149",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57149",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x91f43a26db859200d7f6f288d5f8b3b578c281ea93afcc8e90c74384e924843e",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0x4166b85321fa2c54d582c3f4589dc17b5bec26ff9cf019dc9bd7529a95143c71",
+      "block_number": 3260188,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T20:52:54.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xCD73A7dBFBBA703B0568BEdfFC9202fa6923113e",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57148",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57148",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x6461a29ac7554d2070953ee0e30ecaa7bcb19bf9ec899ea41d31df0b8be24b7a",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xe660cbf66f1b925da695f013f3e6fb000a533bc8ee39c73aa5eb53ebda1bea21",
+      "block_number": 3260169,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T20:51:26.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0xF4dCa3987d9c64Ef2885882ab943FFBA2c71Df18",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57147",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57147",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0x6136ba7aeabd0f6d5d8b96c82379f2fd9f8385607c487c36859b658ad9ae6c91",
+      "type": "token_minting"
+    },
+    {
+      "block_hash": "0xa6f9ad0a16cc224f36605951b17b7d9389647eab8c6613e95181e5c4e3fcbff7",
+      "block_number": 3260041,
+      "from": {
+        "ens_domain_name": null,
+        "hash": "0x0000000000000000000000000000000000000000",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "log_index": 0,
+      "method": "setUserStatus",
+      "timestamp": "2025-12-20T20:44:45.000000Z",
+      "to": {
+        "ens_domain_name": null,
+        "hash": "0x4a60496cF456c43eCD2a1181DC3838F8Ede5826C",
+        "implementations": [],
+        "is_contract": false,
+        "is_scam": false,
+        "is_verified": false,
+        "metadata": null,
+        "name": null,
+        "private_tags": [],
+        "proxy_type": null,
+        "public_tags": [],
+        "reputation": "ok",
+        "watchlist_names": []
+      },
+      "token": {
+        "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+        "circulating_market_cap": null,
+        "decimals": null,
+        "exchange_rate": null,
+        "holders_count": "58495",
+        "icon_url": null,
+        "name": "Blackbird Status",
+        "reputation": "ok",
+        "symbol": "BBST",
+        "total_supply": "58495",
+        "type": "ERC-721",
+        "volume_24h": null
+      },
+      "token_type": "ERC-721",
+      "total": {
+        "token_id": "57146",
+        "token_instance": {
+          "animation_url": null,
+          "external_app_url": null,
+          "id": "57146",
+          "image_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "is_unique": null,
+          "media_type": null,
+          "media_url": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+          "metadata": {
+            "attributes": [
+              {
+                "display_type": "number",
+                "trait_type": "Level",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Track",
+                "value": "Regular"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Fly Multiplier",
+                "value": "1"
+              },
+              {
+                "display_type": null,
+                "trait_type": "Valid From",
+                "value": "2025-01-01"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Fly Spend Threshold",
+                "value": "0"
+              },
+              {
+                "display_type": "number",
+                "trait_type": "Visit Threshold",
+                "value": "0"
+              }
+            ],
+            "description": "Blackbird Status NFT - Level 1",
+            "external_url": null,
+            "image": "https://blackbird-status-nft.s3.us-east-1.amazonaws.com/1X+NFT.png",
+            "name": "Blackbird Status Level 1"
+          },
+          "owner": null,
+          "thumbnails": null,
+          "token": {
+            "address_hash": "0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E",
+            "circulating_market_cap": null,
+            "decimals": null,
+            "exchange_rate": null,
+            "holders_count": "58495",
+            "icon_url": null,
+            "name": "Blackbird Status",
+            "reputation": "ok",
+            "symbol": "BBST",
+            "total_supply": "58495",
+            "type": "ERC-721",
+            "volume_24h": null
+          }
+        }
+      },
+      "transaction_hash": "0xae56a7a5d5cdd1b4c05e47c6697a83ee80c19afb876797fea0672400b6e204a4",
+      "type": "token_minting"
+    }
+  ],
+  "next_page_params": {
+    "index": 0,
+    "block_number": 3260041
+  }
+}
