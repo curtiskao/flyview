@@ -2,11 +2,14 @@
 
 ## Project Overview
 
-This project is a restaurant analytics and leaderboard service built on top
-of public on-chain data from Blackbird's Flynet (an L3 rollup on Base,
-purpose-built for restaurant loyalty/payments). The system ingests check-in
-and reward token transfer data, computes per-restaurant statistics
-(volume, velocity, trends), and serves a ranked leaderboard via a web UI.
+This project is a diner and network analytics service built on top of public on-chain
+data from Blackbird's Flynet (an L3 rollup on Base, purpose-built for restaurant
+loyalty/payments). The system ingests FLY and BBST token transfer events, computes
+diner-level and network-level statistics (FLY earned/burned, active wallets, growth
+trends), and serves the results through a web UI.
+
+Restaurant mapping was investigated thoroughly and deferred — see ROADMAP.md for the
+full decision record. Do not re-investigate without new information.
 
 This is also a learning project for AWS serverless architecture. Prefer
 simple, cheap, free-tier-friendly AWS services (Lambda, EventBridge,
@@ -30,8 +33,7 @@ Key endpoints:
 Confirmed contracts:
 - **FLY (ERC-20)**: `0x6D0FEFe3543212593cee1C8C50EAdf91aCE623b8` — reward/payment token
 - **Blackbird Status (ERC-721, "BBST")**: `0x8D8d8CB24aAAEdFe260F7cc5a3Ec7ec91c81e14E` —
-  likely the check-in/membership token (hypothesis, not yet confirmed — see
-  Phase 0 in ROADMAP.md)
+  per-diner status NFT; updated via `setUserStatus(diner, statusId)` on visits
 
 ## Architecture Conventions
 
@@ -91,16 +93,49 @@ not a per-check-in event token. Key observations:
   `Level`, `Track`, `Fly Multiplier`, `Valid From`, etc.
 - **Restaurant wallets are not visible in BBST transfers at all.**
 
-### Implication for restaurant identification
-Restaurant signal must come from **FLY token flows**, not BBST. The restaurant wallet
-is the party receiving or distributing FLY. BBST ingestion is still useful for diner
-analytics (unique active diners, tier distribution) but cannot anchor the leaderboard
-on its own. Revisit restaurant wallet identification during Phase 2 aggregation.
+### FLY token semantics (Phase 1 finding)
+FLY (`0x6D0FEFe3543212593cee1C8C50EAdf91aCE623b8`) is also purely diner-facing:
+- **`token_minting`** (`method: "mint"`): zero address → diner wallet. Protocol credits diners for visits/spend.
+- **`token_burning`** (`method: "burn"`): diner wallet → zero address. Diners redeeming/spending FLY.
+- **Zero wallet-to-wallet transfers** across 1,000 sampled items (20 pages).
+- **Tx sender is always `0xBBed7fdF8465AC61D5662b38Af06F3a25A9B3D66`** (Blackbird backend hot wallet) for both mints and burns.
+- Decoded call params: `mint(address to, uint256 amount)` and `burn(address burner, uint256 amount)` — no restaurant address anywhere.
+- **Restaurant wallets are not present in FLY transfer data at all.**
+
+### fly.town investigation (Phase 1 finding)
+fly.town is a Next.js App Router site. All restaurant data is rendered server-side via
+RSC payloads — there is no public REST API for leaderboard data.
+
+**What is publicly accessible (no auth):**
+- **Homepage RSC** (`https://fly.town`): today's top 5 restaurants with `checkIns` (count),
+  `rank`, `name`, `slug`, `restaurantUuid`, `accentColor`. Scraped via RSC header.
+- **`/restaurants` RSC**: JSON-LD list of all **1,959 restaurants** with `name` and `slug`
+  (alphabetically ordered, no check-in counts).
+- **Individual restaurant pages** (`/maman`): name, address, cuisine, `restaurantUuid`,
+  today's rank label. No numeric check-in count or historical stats.
+
+**What is NOT publicly accessible:**
+- Leaderboard beyond top 5 (requires auth)
+- Historical check-in data (requires auth)
+- Restaurant wallet addresses (not exposed anywhere — Blackbird doesn't publish them)
+
+**Auth-gated backend:**
+- `https://api.blackbird.xyz` returns 401 without auth.
+- fly.town uses OAuth via `https://api.blackbird.xyz/oauth/authorize`.
+- Authenticated fly.town calls proxy to `/api/core{path}` with `Authorization: Bearer {token}`.
+
+### Project direction (decided)
+Restaurant-specific check-in data is entirely off-chain and private to Blackbird —
+no restaurant wallet addresses exist anywhere in public data. The project focuses on
+**diner and network analytics** using the on-chain data that is available. See
+ROADMAP.md "Restaurant Mapping" section for the full decision record and deferred
+enhancement list.
 
 ## Status / Current Phase
 
-See ROADMAP.md for full phase breakdown. Currently in Phase 1 (ingestion foundation) —
-core ingestion logic is written and running locally; AWS deployment deferred.
+See ROADMAP.md for full phase breakdown. Phase 0 complete. Currently in Phase 1
+(ingestion foundation) — core ingestion logic written and running locally
+(`STORAGE_BACKEND=local`); AWS deployment deferred until account is set up.
 
 ## Things to Avoid
 
